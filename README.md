@@ -11,7 +11,7 @@ This repository contains Helm charts for deploying the ACES ML service in Kubern
 ### Adding the Repository
 
 ```bash
-helm repo add aces-ml https://raw.githubusercontent.com/samirhimi/helm-charts/main/helm-charts
+helm repo add aces-ml https://raw.githubusercontent.com/samirhimi/helm-charts/main
 helm repo update
 ```
 
