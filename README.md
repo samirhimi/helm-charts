@@ -15,6 +15,27 @@ helm repo add aces-ml https://raw.githubusercontent.com/samirhimi/helm-charts/ma
 helm repo update
 ```
 
+### Creating and Publishing Charts
+
+To package and publish a new chart version:
+
+1. Package the chart:
+```bash
+helm package ../aces-ml-chart
+```
+
+2. Update the Helm repository index:
+```bash
+helm repo index . --url https://raw.githubusercontent.com/samirhimi/helm-charts/main
+```
+
+3. Push changes to GitHub:
+```bash
+git add .
+git commit -m "Update Helm chart repository"
+git push origin main
+```
+
 ### Installing Charts
 
 To install the ACES ML chart:
