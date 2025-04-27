@@ -3,13 +3,13 @@ entries:
   aces-ml-chart:
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2025-04-27T21:06:15.800965095Z"
+    created: "2025-04-27T21:13:18.701727056Z"
     description: A Helm chart for the ACES ML service with secure containerization
       and real-time model updates
-    digest: e5feec6c6a43a6483a4f40516df57fadf5905251c0927e6bd66b7a62de1dbdf9
+    digest: 69616364479ca7ba9b585f88972374822418a903aa761b6a50cd32d71a2fda88
     name: aces-ml-chart
     type: application
     urls:
     - https://raw.githubusercontent.com/samirhimi/helm-charts/main/aces-ml-chart-1.0.1.tgz
     version: 1.0.1
-generated: "2025-04-27T21:06:15.800064211Z"
+generated: "2025-04-27T21:13:18.700941828Z"
