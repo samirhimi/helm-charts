@@ -60,4 +60,4 @@ Please refer to our contribution guidelines for information on how to submit cha
 
 ## License
 
-This repository is licensed under the terms specified in the [LICENSE](../LICENSE) file.
+This repository is licensed under the terms specified in the [LICENSE](LICENSE) file.
