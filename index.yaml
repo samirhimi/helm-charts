@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   aces-ml:
   - apiVersion: v2
-    appVersion: 1.0.7
+    appVersion: 1.0.20
     created: "2025-04-28T10:50:26.7763489Z"
     description: A Helm chart for the ACES ML service with secure containerization
       and real-time model updates
@@ -10,6 +10,6 @@ entries:
     name: aces-ml
     type: application
     urls:
-    - https://raw.githubusercontent.com/samirhimi/helm-charts/main/aces-ml-1.0.7.tgz
-    version: 1.0.7
+    - https://raw.githubusercontent.com/samirhimi/helm-charts/main/aces-ml-1.0.20.tgz
+    version: 1.0.20
 generated: "2025-04-28T10:50:26.775520977Z"
